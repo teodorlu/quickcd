@@ -1,4 +1,4 @@
-#+title: quickcd quiclog.
+#+title: quickcd quickjournal.
 
 * 2023-02-15
 ** Where's the hardest point?
