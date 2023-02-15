@@ -1,0 +1,2 @@
+{:deps {io.github.teodorlu/quickcd {:local/root "."}}
+ :bbin/bin {quickcd-lib {:main-opts ["-m" "teodorlu.quickcd/-main"]}}}
