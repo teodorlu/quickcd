@@ -11,8 +11,7 @@ demo_1() {
 (doseq [n (range 5)]
   (println "echo" n))
 EOF
-           )
-
+)
   bb -e "$bb_script" | eval_lines
 }
 
